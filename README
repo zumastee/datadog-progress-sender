@@ -1,0 +1,23 @@
+# Datadog Progress Sender
+
+This project is a simple Python script to send custom progress metrics to Datadog.  
+It helps you visualize the progress of a job or script execution in real time on Datadog dashboards.
+
+## 🚀 Features
+
+- Send custom progress metrics (e.g., 10%, 20%, ..., 100%) to Datadog
+- Use environment variables to securely manage Datadog API keys
+- Easy integration with Datadog dashboards
+
+## 📦 Requirements
+
+- Python 3.8+
+- Datadog account and API Key
+
+## 🔧 Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/datadog-progress-sender.git
+cd datadog-progress-sender
